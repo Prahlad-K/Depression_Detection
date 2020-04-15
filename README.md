@@ -12,7 +12,7 @@ These transcripts contain the interactions between the participants and a virtua
 
 # Baseline
 DL4DED: Deep Learning for Depressive Episode Detection on Mobile Devices \
-Approach: On device ML audio processing using CNN, LSTM multimodal architecture. \ 
+Approach: On device ML audio processing using CNN (spectrograms) and LSTM multimodal architecture. \
 Accuracy: 52% \
 Power Consumption: 5 mAh* \
 Privacy: ensured, no user data transmitted to servers \
