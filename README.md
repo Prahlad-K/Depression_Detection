@@ -11,13 +11,13 @@ Our project mainly focuses on analyzing the textual transcripts offered by the d
 These transcripts contain the interactions between the participants and a virtual agent called "Ellie". This agent is controlled by an interviewer outside of the room under consideration. The questionnaire asked by the interviewers is based on the Patient Health Questionnaire (PHQ) list of questions, and are asked fairly dynamically, and change according to the responses of the user. 
 
 # Baseline
-DL4DED: Deep Learning for Depressive Episode Detection on Mobile Devices
-Approach: On device ML audio processing using CNN, LSTM multimodal architecture. 
-Accuracy: 52%
-Power Consumption: 5 mAh*
-Privacy: ensured, no user data transmitted to servers
-
-*depending on the phone specifications
+DL4DED: Deep Learning for Depressive Episode Detection on Mobile Devices \
+Approach: On device ML audio processing using CNN, LSTM multimodal architecture. \ 
+Accuracy: 52% \
+Power Consumption: 5 mAh* \
+Privacy: ensured, no user data transmitted to servers \
+\
+*depending on the phone specifications \
 https://link.springer.com/chapter/10.1007/978-3-030-32785-9_10
 
 # Preprocessing
