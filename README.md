@@ -38,7 +38,7 @@ Window Size: 10 \
 Epochs: 30, with Early Stopping Criterion - monitoring on Validation Loss \
 Batch Size: 64 \
 Optimizer: Adam \
-Loss: Categorical Cross Entropy \
+Loss: Categorical Cross Entropy
 
 # Results
 
