@@ -31,4 +31,15 @@ https://link.springer.com/chapter/10.1007/978-3-030-32785-9_10
 
 # Model Architecture
 ![](images/Model_1_Architecture.PNG)
-*currently being written
+
+# Hyperparameters
+
+Window Size: 10 \
+Epochs: 30, with Early Stopping Criterion - monitoring on Validation Loss \
+Batch Size: 64 \
+Optimizer: Adam \
+Loss: Categorical Cross Entropy \
+
+# Results
+
+* currently being written
