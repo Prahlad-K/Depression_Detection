@@ -30,5 +30,5 @@ https://link.springer.com/chapter/10.1007/978-3-030-32785-9_10
 
 
 # Model Architecture
-
+![](images/Model_1_Architecture.PNG)
 *currently being written
