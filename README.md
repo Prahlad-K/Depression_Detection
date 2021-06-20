@@ -41,8 +41,8 @@ Optimizer: Adam \
 Loss: Categorical Cross Entropy
 
 # Results
-Validation Accuracy goes upto 98%:\
-![Validation Accuracy goes upto 98%](images/Model_Accuracy_Graph.PNG)
-Categorical Crossentropy Loss Curve:\
+## Validation Accuracy goes upto 98%:
+![Validation Accuracy goes upto 98%](images/Model_Accuracy_Graph.PNG)\
+## Categorical Crossentropy Loss Curve:
 ![Categorical Crossentropy Loss Curve](images/Model_Categorical_Crossentropy_Graph.PNG)
 
