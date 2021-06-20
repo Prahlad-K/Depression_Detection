@@ -41,6 +41,6 @@ Optimizer: Adam \
 Loss: Categorical Cross Entropy
 
 # Results
-![](images/Model Accuracy Graph.PNG)
-![](images/Model Loss (Categorical Crossentropy) Graph.PNG)
+![](images/Model_Accuracy_Graph.PNG)
+![](images/Model_Categorical_Crossentropy_Graph.PNG)
 
