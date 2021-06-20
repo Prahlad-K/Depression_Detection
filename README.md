@@ -10,8 +10,8 @@ http://dcapswoz.ict.usc.edu/
 Our project mainly focuses on analyzing the textual transcripts offered by the database. 
 These transcripts contain the interactions between the participants and a virtual agent called "Ellie". This agent is controlled by an interviewer outside of the room under consideration. The questionnaire asked by the interviewers is based on the Patient Health Questionnaire (PHQ) list of questions, and are asked fairly dynamically, and change according to the responses of the user. 
 
-# Baseline
-DL4DED: Deep Learning for Depressive Episode Detection on Mobile Devices \
+# Baselines
+DL4DED: Deep Learning for Depressive Episode Detection on Mobile Devices by Afef Mdhaffar et al. \
 Approach: On device ML audio processing using CNN (spectrograms) and LSTM multimodal architecture. \
 Accuracy: 52% \
 Power Consumption: 5 mAh* \
@@ -41,5 +41,6 @@ Optimizer: Adam \
 Loss: Categorical Cross Entropy
 
 # Results
+![](images/Model Accuracy Graph.PNG)
+![](images/Model Loss (Categorical Crossentropy) Graph.PNG)
 
-* currently being written
